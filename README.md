@@ -3,7 +3,7 @@
 - 😄 Pronomes: ele/dele
 ##
 <div style="display: flex">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Adryan&show_icons=true&theme=algolia">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AdryanGabriel1&show_icons=true&theme=algolia">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdryanGabriel1&layout=compact&langs_count=8&theme=algolia"/&gt;>
 </div>
 <div style="display: inline_block"><br>
