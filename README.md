@@ -19,7 +19,7 @@ Sou Adryan.Desenvolvedor Brasileiro em Desenvolvimento.
 
 <!-- Div de Titulo ( Da para melhorar depois sem mexer em nada )-->     
 <div>
-  <h3> TECNOLOGIAS E FERRAMENTAS </h1>
+  <p> TECNOLOGIAS E FERRAMENTAS </p>
 </div>
 <br>
 
@@ -32,7 +32,7 @@ Sou Adryan.Desenvolvedor Brasileiro em Desenvolvimento.
 
 <!-- Div de Titulo ( Da para melhorar depois sem mexer em nada )--> 
 <div>
-  <h4> CONTATOS </p>
+  <p> CONTATOS </p>
 </div>
 <br>
 
