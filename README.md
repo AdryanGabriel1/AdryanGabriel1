@@ -1,5 +1,7 @@
+**AdryanGabriel1/AdryanGabriel1**
 ## Hahay 👋
-- 🌱 Estudante do ECC_CRISTIANO_CARTAXO - CZ
+- 🔭 Atualmente estou a procura de serviços ...
+- 🌱 Atu
 - 😄 Pronomes: ele/dele
 
 <div align="center">
