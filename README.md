@@ -1,4 +1,3 @@
-**AdryanGabriel1/AdryanGabriel1**
 ## Olá! Bem vindo ao meu profile.
 Sou Adryan Gabriel.
 Desenvolvedor em Desenvolvimento.
